@@ -9,7 +9,7 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 ## Previous Works (Unfinished)
 
 ### Spaceship-related
-`Mar '21`  [spaaaaaace](https://github.com/Klehrik/spaaaaaace)  
+`Mar '21`&nbsp;&nbsp;&nbsp;&nbsp;[spaaaaaace](https://github.com/Klehrik/spaaaaaace)  
 `May '21`  [new spaaaaace](https://github.com/Klehrik/new-spaaaaace)  
 `Nov '21`  [weird space](https://github.com/Klehrik/weird-space)  
 
@@ -17,3 +17,5 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 `Jan '21`  [space FE](https://github.com/Klehrik/space-FE)  
 `Sep '21`  [Isometric Grid](https://github.com/Klehrik/Isometric-Grid)  
 `Feb '22`  [Iso4X](https://github.com/Klehrik/Iso4X)  
+
+### Other
