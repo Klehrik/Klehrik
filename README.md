@@ -19,3 +19,5 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 `Feb '22`&nbsp; [Iso4X](https://github.com/Klehrik/Iso4X)  
 
 ### Other
+`Jul '20`&nbsp; [LOWREZ 2020 2](https://github.com/Klehrik/LOWREZ-2020-2)  
+`Feb '23`&nbsp; [Panacea Remake](https://github.com/Klehrik/Panacea-Remake)  
