@@ -22,6 +22,7 @@ Feel free to adapt portions of code from these, but please do not continue any p
 `Feb '22`&nbsp; [Iso4X](https://github.com/Klehrik/Iso4X)  
 
 ### PICO-8
+`Sep '21`&nbsp; [tactics](https://github.com/Klehrik/tactics)  
 `Jan '22`&nbsp; [bw_rpg](https://github.com/Klehrik/bw_rpg)  
 `Oct '23`&nbsp; [Station-8 Remake](https://github.com/Klehrik/Station-8-Remake)  
 
