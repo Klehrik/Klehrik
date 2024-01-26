@@ -13,3 +13,7 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 [May 2021] [new spaaaaace](https://github.com/Klehrik/new-spaaaaace)  
 [Nov 2021] [weird space](https://github.com/Klehrik/weird-space)  
 
+### Tactics-related
+[Jan 2021] [space FE](https://github.com/Klehrik/space-FE)  
+[Sep 2021] [Isometric Grid](https://github.com/Klehrik/Isometric-Grid)  
+[Feb 2022] [Iso4X](https://github.com/Klehrik/Iso4X)  
