@@ -1,4 +1,8 @@
-### Hi there 👋
+# Klehrik
+
+This GitHub profile is where I've uploaded all of my (significant) previous works that *are not* on my [itch.io page](https://klehrik.itch.io).
+
+(I'm still in the process of doing this so this isn't all of them yet)
 
 <!--
 **Klehrik/Klehrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
