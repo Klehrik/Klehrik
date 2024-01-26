@@ -9,7 +9,7 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 ## Previous Works (Unfinished)
 
 I am uploading these so they don't totally go to waste sitting on my drive.  
-Feel free to adapt portions of code from these, but please do not continue any projects without permissions since I may want to do that myself in the future.
+Feel free to adapt portions of code from these, but please do not continue any projects without permission since I may want to do that myself in the future.
 
 ### Spaceship-related
 `Mar '21`&nbsp; [spaaaaaace](https://github.com/Klehrik/spaaaaaace)  
