@@ -11,7 +11,7 @@ This GitHub profile is where I've uploaded all of my (significant) unfinished pr
 I am uploading these so they don't totally go to waste sitting on my drive.  
 Feel free to adapt portions of code from these, but please do not continue any projects without my permission since I may want to do that myself in the future.
 
-### Spaceship-related
+### The "spaaaaaace" tetralogy
 `Mar '21`&nbsp; [spaaaaaace](https://github.com/Klehrik/spaaaaaace)  
 `May '21`&nbsp; [new spaaaaace](https://github.com/Klehrik/new-spaaaaace)  
 `Nov '21`&nbsp; [weird space](https://github.com/Klehrik/weird-space)  
