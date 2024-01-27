@@ -2,8 +2,6 @@
 
 This GitHub profile is where I've uploaded all of my (significant) unfinished previous works that *are not* on my [itch.io page](https://klehrik.itch.io).
 
-(I'm still in the process of doing this so this isn't all of them yet)
-
 ---
 
 ## Previous Works (Unfinished)
