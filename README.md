@@ -15,6 +15,7 @@ Feel free to adapt portions of code from these, but please do not continue any p
 `Mar '21`&nbsp; [spaaaaaace](https://github.com/Klehrik/spaaaaaace)  
 `May '21`&nbsp; [new spaaaaace](https://github.com/Klehrik/new-spaaaaace)  
 `Nov '21`&nbsp; [weird space](https://github.com/Klehrik/weird-space)  
+`May '22`&nbsp; [spaaaaace roguelike](https://github.com/Klehrik/spaaaaace-roguelike)  
 
 ### Tactics-related
 `Jan '21`&nbsp; [space FE](https://github.com/Klehrik/space-FE)  
