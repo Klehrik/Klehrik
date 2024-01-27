@@ -6,7 +6,7 @@ This GitHub profile is where I upload all of my (significant) unfinished previou
 
 ## Previous Works (Unfinished)
 
-I am uploading these so they don't totally go to waste sitting on my drive.  
+I am uploading these so they don't go to waste sitting on my drive.  
 Feel free to adapt portions of code from these, but please do not continue any projects without my permission since I may want to do that myself in the future.
 
 ### The "spaaaaaace" tetralogy
