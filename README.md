@@ -1,6 +1,6 @@
 # Klehrik
 
-This GitHub profile is where I've uploaded all of my (significant) unfinished previous works that *are not* on my [itch.io page](https://klehrik.itch.io).
+This GitHub profile is where I upload all of my (significant) unfinished previous works that *are not* on my [itch.io page](https://klehrik.itch.io).
 
 ---
 
