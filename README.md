@@ -34,7 +34,7 @@ Feel free to adapt portions of code from these, but please do not continue any p
 
 ---
 
-## RoRR Mods
+## *Risk of Rain Returns* Mods
 
 This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).
 
