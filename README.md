@@ -38,6 +38,6 @@ Feel free to adapt portions of code from these, but please do not continue any p
 
 This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).
 
-[Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)
-[One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)
-[Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)
+[Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
+[One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
+[Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)  
