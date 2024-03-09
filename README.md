@@ -31,3 +31,13 @@ Feel free to adapt portions of code from these, but please do not continue any p
 `Nov '22`&nbsp; [DungeonGame](https://github.com/Klehrik/DungeonGame)  
 `Feb '23`&nbsp; [Panacea Remake](https://github.com/Klehrik/Panacea-Remake)  
 `Jul '23`&nbsp; [Space Raid 2](https://github.com/Klehrik/Space-Raid-2)  
+
+---
+
+## RoRR Mods
+
+This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).
+
+[Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)
+[One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)
+[Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)
