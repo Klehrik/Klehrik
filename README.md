@@ -41,5 +41,6 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
 [One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
 [Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)  
+[Item Toggle](https://github.com/Klehrik/RoRR-ItemToggle)
 
 [Items Table (library)](https://github.com/Klehrik/RoRR-ItemsTable) 
