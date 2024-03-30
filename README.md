@@ -43,5 +43,6 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)  
 [Item Toggle](https://github.com/Klehrik/RoRR-ItemToggle)  
 [Deluge](https://github.com/Klehrik/RoRR-Deluge)  
+[Sniper Auto-fire](https://github.com/Klehrik/RoRR-SniperAutofire)  
 
-[Items Table (library)](https://github.com/Klehrik/RoRR-ItemsTable) 
+[Items Table (library)](https://github.com/Klehrik/RoRR-ItemsTable)  
