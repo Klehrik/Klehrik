@@ -44,6 +44,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Item Toggle](https://github.com/Klehrik/RoRR-ItemToggle)  
 [Deluge](https://github.com/Klehrik/RoRR-Deluge)  
 [Sniper Auto-fire](https://github.com/Klehrik/RoRR-SniperAutofire)  
-[Skill Damage Changes](https://github.com/Klehrik/RoRR-SkillDamageChanges)
+[Skill Damage Changes](https://github.com/Klehrik/RoRR-SkillDamageChanges)  
+[Simulacrum](https://github.com/Klehrik/RoRR-Simulacrum)  
 
 [Items Table (library)](https://github.com/Klehrik/RoRR-ItemsTable)  
