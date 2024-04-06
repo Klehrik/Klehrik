@@ -48,4 +48,4 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Simulacrum](https://github.com/Klehrik/RoRR-Simulacrum)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
-[Items Table (library) (Functionally embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
+[Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
