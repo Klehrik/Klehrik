@@ -46,6 +46,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Sniper Auto-fire](https://github.com/Klehrik/RoRR-SniperAutofire)  
 [Skill Damage Changes](https://github.com/Klehrik/RoRR-SkillDamageChanges)  
 [Simulacrum](https://github.com/Klehrik/RoRR-Simulacrum)  
+[Full Descriptions](https://github.com/Klehrik/RoRR-FullDescriptions)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
