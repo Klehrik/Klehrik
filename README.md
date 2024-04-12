@@ -47,6 +47,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Skill Damage Changes](https://github.com/Klehrik/RoRR-SkillDamageChanges)  
 [Simulacrum](https://github.com/Klehrik/RoRR-Simulacrum)  
 [Full Descriptions](https://github.com/Klehrik/RoRR-FullDescriptions)  
+[SaveMod](https://github.com/Klehrik/RoRR-SaveMod)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
