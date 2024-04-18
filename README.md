@@ -48,6 +48,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Simulacrum](https://github.com/Klehrik/RoRR-Simulacrum)  
 [Full Descriptions](https://github.com/Klehrik/RoRR-FullDescriptions)  
 [SaveMod](https://github.com/Klehrik/RoRR-SaveMod)  
+[No Wall Clip](https://github.com/Klehrik/RoRR-NoWallClip)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
