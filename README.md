@@ -49,6 +49,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Full Descriptions](https://github.com/Klehrik/RoRR-FullDescriptions)  
 [SaveMod](https://github.com/Klehrik/RoRR-SaveMod)  
 [No Wall Clip](https://github.com/Klehrik/RoRR-NoWallClip)  
+[Printers](https://github.com/Klehrik/RoRR-Printers)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
