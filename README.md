@@ -51,6 +51,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [No Wall Clip](https://github.com/Klehrik/RoRR-NoWallClip)  
 [Printers](https://github.com/Klehrik/RoRR-Printers)  
 [Scrappers](https://github.com/Klehrik/RoRR-Scrappers)  
+[Umbra Squad](https://github.com/Klehrik/RoRR-UmbraSquad)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
