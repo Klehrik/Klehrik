@@ -36,7 +36,8 @@ Feel free to adapt portions of code from these, but please do not continue any p
 
 ## *Risk of Rain Returns* Mods
 
-This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).
+This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).  
+[Thunderstore page](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/)  
 
 [Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
 [One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
