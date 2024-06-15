@@ -57,3 +57,8 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
+
+---
+
+## [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
+Datapack that adds new enchantments to vanilla Minecraft.  
