@@ -61,4 +61,4 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 ---
 
 ## [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
-Datapack that adds new enchantments to vanilla Minecraft.  
+Datapack that adds new enchantments and items to vanilla Minecraft.  
