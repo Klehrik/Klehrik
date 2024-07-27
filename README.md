@@ -55,6 +55,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Umbra Squad](https://github.com/Klehrik/RoRR-UmbraSquad)  
 [Teleporter Color](https://github.com/Klehrik/RoRR-TeleporterColor)  
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
+[Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 
 [HelperFunctions](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
