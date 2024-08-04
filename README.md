@@ -56,6 +56,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Teleporter Color](https://github.com/Klehrik/RoRR-TeleporterColor)  
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
+[No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
 
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
 [HelperFunctions (deprecated)](https://github.com/Klehrik/RoRR-HelperFunctions)  
