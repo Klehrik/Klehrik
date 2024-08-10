@@ -39,6 +39,7 @@ Feel free to adapt portions of code from these, but please do not continue any p
 This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).  
 [Thunderstore pages for the mods below](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/)  
 
+**General**
 [Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
 [One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
 [Huntress Blink Invulnerability](https://github.com/Klehrik/RoRR-HuntressBlinkInvulnerability)  
@@ -58,6 +59,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
 
+**Utility**
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
 [HelperFunctions (deprecated)](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (library) (Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
