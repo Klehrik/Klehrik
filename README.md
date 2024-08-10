@@ -39,8 +39,6 @@ Feel free to adapt portions of code from these, but please do not continue any p
 This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).  
 [Thunderstore pages for the mods below](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/)  
 
-[Aphelion](https://github.com/Klehrik/RoRR-Aphelion)  
-
 **General**  
 [Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
 [One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
@@ -60,6 +58,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
+[Aphelion](https://github.com/Klehrik/RoRR-Aphelion)  
 
 **Utility**  
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
