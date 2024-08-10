@@ -62,7 +62,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 **Utility**  
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit now)](https://github.com/Klehrik/RoRR-HelperFunctions)  
-[Items Table (library) (Deprecated; Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
+[Items Table (Deprecated; Functionality embedded within HelperFunctions now)](https://github.com/Klehrik/RoRR-ItemsTable)  
 
 ---
 
