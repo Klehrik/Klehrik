@@ -58,12 +58,16 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
-[Aphelion](https://github.com/Klehrik/RoRR-Aphelion)  
 
 **Utility**  
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (Deprecated; Functionality embedded within HelperFunctions)](https://github.com/Klehrik/RoRR-ItemsTable)  
+
+---
+
+## [Aphelion](https://github.com/Klehrik/RoRR-Aphelion)
+Content mod for Risk of Rain Returns that currently adds 16 items and 2 equipment. 
 
 ---
 
