@@ -58,6 +58,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
+[Sprite Viewer](https://github.com/Klehrik/RoRR-SpriteViewer)  
 
 **Utility**  
 [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
