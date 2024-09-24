@@ -60,10 +60,14 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
 [Sprite Viewer](https://github.com/Klehrik/RoRR-SpriteViewer)  
 
-**Utility**  
-[RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
+**Utility**   
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (Deprecated; Functionality embedded within HelperFunctions)](https://github.com/Klehrik/RoRR-ItemsTable)  
+
+---
+
+## [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
+Utility mod for easier modding of Risk of Rain Returns.
 
 ---
 
