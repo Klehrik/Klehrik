@@ -59,6 +59,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Better Crates](https://github.com/Klehrik/RoRR-BetterCrates)  
 [No Random Damage](https://github.com/Klehrik/RoRR-NoRandomDamage)  
 [Sprite Viewer](https://github.com/Klehrik/RoRR-SpriteViewer)  
+[CooldownHelper](https://github.com/Klehrik/RoRR-CooldownHelper)  
 
 **Utility**   
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
