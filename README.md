@@ -51,8 +51,8 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Full Descriptions](https://github.com/Klehrik/RoRR-FullDescriptions)  
 [SaveMod](https://github.com/Klehrik/RoRR-SaveMod)  
 [No Wall Clip](https://github.com/Klehrik/RoRR-NoWallClip)  
-[Printers](https://github.com/Klehrik/RoRR-Printers)  
-[Scrappers](https://github.com/Klehrik/RoRR-Scrappers)  
+[Printers (Deprecated)](https://github.com/Klehrik/RoRR-Printers)  
+[Scrappers (Deprecated)](https://github.com/Klehrik/RoRR-Scrappers)  
 [Umbra Squad](https://github.com/Klehrik/RoRR-UmbraSquad)  
 [Teleporter Color](https://github.com/Klehrik/RoRR-TeleporterColor)  
 [King of Petrichor](https://github.com/Klehrik/RoRR-King_of_Petrichor)  
@@ -61,6 +61,7 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [Sprite Viewer](https://github.com/Klehrik/RoRR-SpriteViewer)  
 [CooldownHelper](https://github.com/Klehrik/RoRR-CooldownHelper)  
 [CurseHelper](https://github.com/Klehrik/RoRR-CurseHelper)  
+[Print n Scrap](https://github.com/Klehrik/RoRR-Print_n_Scrap)  
 
 **Utility**   
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
