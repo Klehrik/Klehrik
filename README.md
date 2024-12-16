@@ -75,7 +75,7 @@ Utility mod for easier modding of Risk of Rain Returns.
 ---
 
 ## [Aphelion](https://github.com/Klehrik/RoRR-Aphelion)
-Content mod for Risk of Rain Returns that currently adds 16 items, 4 equipment, and 3 skills. 
+Content mod for Risk of Rain Returns that currently adds 18 items, 4 equipment, and 3 skills. 
 
 ---
 
