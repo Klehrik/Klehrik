@@ -66,11 +66,12 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 **Utility**   
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (Deprecated; Functionality embedded within HelperFunctions)](https://github.com/Klehrik/RoRR-ItemsTable)  
+[RoRR Modding Toolkit (Legacy; use ReturnsAPI instead)](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
 
 ---
 
-## [RoRR Modding Toolkit](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
-Utility mod for easier modding of Risk of Rain Returns.
+## [ReturnsAPI](https://github.com/ReturnsAPI/ReturnsAPI)  
+API for modding Risk of Rain Returns.  
 
 ---
 
