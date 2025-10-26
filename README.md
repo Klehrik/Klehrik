@@ -39,6 +39,15 @@ Feel free to adapt portions of code from these, but please do not continue any p
 This is using the [unofficial modding framework](https://github.com/return-of-modding/ReturnOfModding).  
 [Thunderstore pages for the mods below](https://thunderstore.io/c/risk-of-rain-returns/p/Klehrik/)  
 
+### [ReturnsAPI](https://github.com/ReturnsAPI/ReturnsAPI)  
+API for modding Risk of Rain Returns.  
+
+### [Aphelion](https://github.com/Klehrik/RoRR-Aphelion)
+Content mod for Risk of Rain Returns that currently adds 18 items, 4 equipment, and 3 skills. 
+
+### [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
+Datapack that adds new enchantments and items to Minecraft, as well as making some vanilla changes. 
+
 **General**  
 [Reusable Mountain Shrines](https://github.com/Klehrik/RoRR-ReusableMountainShrines)  
 [One Shot Protection](https://github.com/Klehrik/RoRR-OneShotProtection)  
@@ -67,18 +76,3 @@ This is using the [unofficial modding framework](https://github.com/return-of-mo
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
 [Items Table (Deprecated; Functionality embedded within HelperFunctions)](https://github.com/Klehrik/RoRR-ItemsTable)  
 [RoRR Modding Toolkit (Legacy; use ReturnsAPI instead)](https://github.com/RoRRModdingToolkit/RoRR_Modding_Toolkit)  
-
----
-
-## [ReturnsAPI](https://github.com/ReturnsAPI/ReturnsAPI)  
-API for modding Risk of Rain Returns.  
-
----
-
-## [Aphelion](https://github.com/Klehrik/RoRR-Aphelion)
-Content mod for Risk of Rain Returns that currently adds 18 items, 4 equipment, and 3 skills. 
-
----
-
-## [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
-Datapack that adds new enchantments and items to Minecraft, as well as making some vanilla changes. 
