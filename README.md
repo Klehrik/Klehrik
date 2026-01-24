@@ -76,8 +76,10 @@ Content mod for Risk of Rain Returns that currently adds 18 items, 4 equipment, 
 
 ---
 
-## [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
+## Minecraft Datapacks
+
+### [Lost Arcana](https://github.com/Klehrik/Lost_Arcana)
 Datapack that adds new enchantments and items to Minecraft, as well as making some vanilla changes.  
 
-## [Lost Arcana](https://github.com/Klehrik/Trinkets)
+### [Trinkets](https://github.com/Klehrik/Trinkets)
 Minecraft datapack adding equippable trinkets that provide different effects.  
