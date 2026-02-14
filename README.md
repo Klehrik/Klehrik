@@ -68,6 +68,7 @@ Content mod for Risk of Rain Returns that currently adds 18 items, 4 equipment, 
 [CooldownHelper](https://github.com/Klehrik/RoRR-CooldownHelper)  
 [CurseHelper](https://github.com/Klehrik/RoRR-CurseHelper)  
 [Print n Scrap](https://github.com/Klehrik/RoRR-Print_n_Scrap)  
+[Console Extensions](https://github.com/Klehrik/RoRR-Console_Extensions)  
 
 **Utility**   
 [HelperFunctions (Deprecated; Functionality embedded within RoRR Modding Toolkit)](https://github.com/Klehrik/RoRR-HelperFunctions)  
